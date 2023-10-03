@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,217 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/* --------------------s1------------------- */
+.section1{
+  display:flex;
+  }
+
+.home-container1{
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: justify;
+  font-size: 17px; 
+  margin-left: 80px;
+  margin-top: 180px;
+  margin-right: 100px;
+}
+
+.home-pic1{
+  height: 400px;
+  margin-left: 100px;
+  margin-top: 80px;
+}
+
+
+/* --------------------s2------------------- */
+.section2{
+display: flex;
+margin-bottom: 100px;
+}
+.home-container2{
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: justify;
+  font-size: 17px;
+  margin-left: 100px;
+  margin-top: 250px;
+  margin-right: 100px;
+}
+.home-pic2{
+  height: 400px;
+  width: 350px;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 150px;
+}
+
+
+
+/* ----------------c3---------------------- */
+.home-container3{
+  font-size: 17px;
+  text-align: center;
+}
+/* ----------------c4---------------------- */
+.home-container4{
+display: flex;
+text-align: center;
+margin-top: 90px;
+padding: 50px;
+}
+
+.sm-image{
+
+  height: 100px;
+  margin-bottom: 10px;
+
+}
+
+/* ----------------home-page 2---------------------- */
+.page2{
+  background-color:#1a1d20;
+  padding: 25px;
+  padding-top: 25px;
+  color: white;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.footer{
+  text-align: center;
+  padding-top: 10px;
+}
+
+
+/* ----------------booking-form Page---------------------- */
+.form{
+  height: 400px;
+  width: 400px;
+  margin-left: 150px;
+  margin-top: 70px;
+  
+}
+.form-page{
+  background-color: #1a1d20;
+  color: white;
+  height: 600px;
+  padding-top: 50px;
+
+}
+td {
+  padding: 10px;
+  padding-left: 20px;
+}
+/* ----------------booking-card Page---------------------- */
+.card1{
+margin:20px;
+margin-left: 200px; 
+font-family: 'Nunito Sans', sans-serif;
+        
+
+}
+
+.card2{
+ margin: 20px;
+margin-left: 200px; 
+font-family: 'Nunito Sans', sans-serif;
+
+ 
+        
+}
+
+.card3{
+  margin: 20px;
+  margin-left: 200px;
+  font-family: 'Nunito Sans', sans-serif;
+ }
+
+.card4{
+margin: 20px;
+margin-left: 200px; 
+font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.input{
+  border-radius: 20px;
+  border: #1a1d20 2px solid;
+}
+.sumit-button{
+  border-radius: 20px;
+  border: #1a1d20 2px solid;
+  background-color: blue;
+  color: white;
+  font-weight: 700;
+}
+/* ----------------Update Page---------------------- */
+
+.update-button{
+background-color: gray;
+border-radius: 20px;
+border: #1a1d20 2px solid;
+margin: 7px;
+
+
+}
+
+
+
+
+
+
+
+
+
+/* ----------------about Page---------------------- */
+
+
+.totalpage{
+  background-color: #1a1d21;
+  color: whitesmoke;
+  height: 850px;
+  padding-left: 80px;
+  padding-top: 90px;
+}
+.hr{
+  height: 4px;
+  width: 20px;
+  background-color: blue;
+  border-color: blue;
+  margin-left: 20px;
+}
+
+.about-logo{
+  display: flex;
+  
+}
+.logo-size{
+    height: 50px;
+  
+}
+
+.about-para{
+  font-family: 'Nunito Sans', sans-serif;
+text-align: justify;
+margin-left: 20px;
+padding-right: 10px;
+}
+.about-location{
+  font-family: 'Nunito Sans', sans-serif;
+  margin-left:20px ;
+}
+.find-us{
+  font-family: 'Nunito Sans', sans-serif;
+  margin-left: 20px;
+}
+.find-images{
+  margin-top: 20px;
+}
+.about-image{
+  height: 30px;
+
+}
+.about-image1{
+  height: 30px;
+  padding-left: 20px;
 }
